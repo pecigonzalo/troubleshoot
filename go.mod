@@ -19,7 +19,7 @@ require (
 	github.com/lib/pq v1.3.0
 	github.com/longhorn/go-iscsi-helper v0.0.0-20210330030558-49a327fb024e
 	github.com/manifoldco/promptui v0.8.0
-	github.com/mattn/go-isatty v0.0.12
+	github.com/mattn/go-isatty v0.0.16
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/replicatedhq/termui/v3 v3.1.1-0.20200811145416-f40076d26851
@@ -174,7 +174,7 @@ require (
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/net v0.0.0-20210520170846-37e1c6afe023 // indirect
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602 // indirect
-	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71 // indirect
+	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
 	golang.org/x/text v0.3.6 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
